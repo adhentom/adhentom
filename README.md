@@ -61,26 +61,34 @@ class Adhen:
 
 **💻 Languages**
 
-Python • C • Java
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **🤖 AI / ML & Data**
 
-OpenAI API • NumPy • Pandas
-Machine Learning • Generative AI
-Data Analytics • Data Visualization
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-BF91F3?style=flat-square&logo=openai&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-38BDAE?style=flat-square&logo=databricks&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-70A5FD?style=flat-square&logo=chartdotjs&logoColor=white)
 
 **🧰 Development Tools**
 
-VS Code • Jupyter Notebook
-Git • GitHub
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **🎯 Areas of Interest**
 
-Artificial Intelligence
-Data Science
-Data Analytics
-Software Development
-Innovation & Research
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-BF91F3?style=flat-square&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-38BDAE?style=flat-square&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-70A5FD?style=flat-square&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software%20Development-F05032?style=flat-square&logoColor=white)
+![Innovation & Research](https://img.shields.io/badge/Innovation%20%26%20Research-F2C811?style=flat-square&logoColor=white)
 
 ---
 

@@ -9,14 +9,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adhz33&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=adhentom&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
   <a href="https://linkedin.com/in/adhen-cheryeth-tom">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:adhentom@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/Adhz33">
+  <a href="https://github.com/adhentom">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -95,11 +95,11 @@ class Adhen:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Adhz33">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhz33&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Adhen's GitHub Stats"/>
+  <a href="https://github.com/adhentom">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=adhentom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Adhen's GitHub Stats"/>
   </a>
-  <a href="https://github.com/Adhz33">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhz33&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/adhentom">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhentom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -108,7 +108,7 @@ class Adhen:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Adhz33&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=adhentom&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -116,7 +116,7 @@ class Adhen:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhz33&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhentom&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -124,7 +124,7 @@ class Adhen:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adhz33&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adhentom&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -183,9 +183,9 @@ class Adhen:
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| 🛣️ **[Off-Highway Guardian](https://github.com/Adhz33)** | Python · Real-Time Sensing · Dashboard | Real-time accident detection & emergency monitoring system with interactive alert dashboard for rapid incident response |
-| 🧠 **[NeuroLearn AI](https://github.com/Adhz33)** | AI · Adaptive Learning · Emotion-Aware UI | AI-powered adaptive educational platform built for neurodivergent learners with personalized workflows and emotion-aware interactions |
-| 💡 **[VentureLens](https://github.com/Adhz33)** | RAG · Python · Data Analytics | RAG-powered startup funding intelligence platform delivering AI-driven investment insights and data-backed decision support |
+| 🛣️ **[Off-Highway Guardian](https://github.com/adhentom/Off-Highway-Guardian)** | C++ · Real-Time Sensing · Dashboard | Real-time accident detection & emergency monitoring system with interactive alert dashboard for rapid incident response |
+| 💡 **[VentureLens](https://github.com/adhentom/VentureLens)** | TypeScript · RAG · Data Analytics | RAG-powered startup funding intelligence platform delivering AI-driven investment insights and data-backed decision support |
+| 🎬 **[CineLife AI](https://github.com/adhentom/CineLife_AI)** | TypeScript · AI · Generative AI | AI-powered cinematic experience platform leveraging generative AI for personalized recommendations and content intelligence |
 
 </div>
 
@@ -228,7 +228,6 @@ Currently Learning:
 │   ├── RAG Architectures & Vector Stores
 │   └── Agentic AI Systems
 ├── Data Analytics
-│   ├── Advanced Power BI & Tableau
 │   ├── Statistical Modeling
 │   └── ML-Driven Dashboards
 └── Cloud & MLOps

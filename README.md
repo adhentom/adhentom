@@ -124,7 +124,7 @@ class Adhen:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adhentom&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adhentom&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 ---

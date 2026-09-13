@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="320" src="assets/coder-illustration.png"/>
+<img align="right" width="350" src="assets/profile.png" alt="Adhen's workspace"/>
 
 ```python
 class Adhen:

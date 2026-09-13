@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif"/>
+<img align="right" width="320" src="assets/coder-illustration.png"/>
 
 ```python
 class Adhen:
